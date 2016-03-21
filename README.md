@@ -9,3 +9,8 @@ microblog
 > * 运行命令   
         npm install  
         node app.js
+
+> * TODO:  
+        layout && partials
+        req.flash
+        国际化语言
